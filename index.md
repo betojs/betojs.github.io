@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome a mi pagina de Github
 
 You can use the [editor on GitHub](https://github.com/betojs/betojs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
